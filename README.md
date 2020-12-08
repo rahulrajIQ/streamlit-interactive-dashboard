@@ -1,6 +1,7 @@
 # streamlit-interactive-dashboard
 
 1.) Installation required of the following:
+
 streamlit
 plotly
 wordcloud
